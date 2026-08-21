@@ -1,46 +1,47 @@
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif">
-</p>
+<div align="center">
+ <h1>
+   <a>Data Science Notebooks</a>
+ </h1>
+<br>
+  <p align="center">
+    <img src="Data Science Notebooks.png">
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/coversmall_alt.png">
-  <br/>
-</p>
+------------------------------------------------------------------------------------------------------------------------------------------
 
-# data-science-ipython-notebooks
+### Index
 
-## Index
-
-* [deep-learning](#deep-learning)
-    * [tensorflow](#tensor-flow-tutorials)
-    * [theano](#theano-tutorials)
-    * [keras](#keras-tutorials)
-    * [caffe](#deep-learning-misc)
-* [scikit-learn](#scikit-learn)
-* [statistical-inference-scipy](#statistical-inference-scipy)
-* [pandas](#pandas)
-* [matplotlib](#matplotlib)
-* [numpy](#numpy)
-* [python-data](#python-data)
-* [kaggle-and-business-analyses](#kaggle-and-business-analyses)
-* [spark](#spark)
-* [mapreduce-python](#mapreduce-python)
-* [amazon web services](#aws)
-* [command lines](#commands)
-* [misc](#misc)
-* [notebook-installation](#notebook-installation)
-* [credits](#credits)
-* [contributing](#contributing)
-* [contact-info](#contact-info)
-* [license](#license)
+* [Deep Learning](#deep-learning)
+    * [TensorFlow](#tensor-flow-tutorials)
+    * [Theano](#theano-tutorials)
+    * [Keras](#keras-tutorials)
+    * [Caffe](#deep-learning-misc)
+* [Scikit-learn](#scikit-learn)
+* [Statistical Inference Scipy](#statistical-inference-scipy)
+* [Pandas](#pandas)
+* [Matplotlib](#matplotlib)
+* [Numpy](#numpy)
+* [Python Data](#python-data)
+* [Kaggle and Business Analyses](#kaggle-and-business-analyses)
+* [Spark](#spark)
+* [Mapreduce Python](#mapreduce-python)
+* [Amazon Web Services (AWS)](#aws)
+* [Command Lines](#commands)
+* [Misc](#misc)
+* [Notebook Installation](#notebook-installation)
+* [Credits](#credits)
+* [Contact Info](#contact-info)
+* [License](#license)
 
 <br/>
 <p align="center">
   <img src="http://i.imgur.com/ZhKXrKZ.png">
 </p>
 
-## deep-learning
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 1. Deep Learning
 
 IPython Notebook(s) demonstrating deep learning functionality.
 
@@ -49,7 +50,7 @@ IPython Notebook(s) demonstrating deep learning functionality.
   <img src="https://avatars0.githubusercontent.com/u/15658638?v=3&s=100">
 </p>
 
-### tensor-flow-tutorials
+#### 1.1 TensorFlow Tutorials
 
 Additional TensorFlow tutorials:
 
@@ -73,7 +74,7 @@ Additional TensorFlow tutorials:
 | [tsf-gviz](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/5_ui/graph_visualization.ipynb) | Learn about graph visualization in TensorFlow. |
 | [tsf-lviz](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/5_ui/loss_visualization.ipynb) | Learn about loss visualization in TensorFlow. |
 
-### tensor-flow-exercises
+#### 1.1.1 TensorFlow Exercises
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -89,7 +90,7 @@ Additional TensorFlow tutorials:
   <img src="http://www.deeplearning.net/software/theano/_static/theano_logo_allblue_200x46.png">
 </p>
 
-### theano-tutorials
+#### 1.2 Theano Tutorials
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -104,7 +105,7 @@ Additional TensorFlow tutorials:
   <img src="http://i.imgur.com/L45Q8c2.jpg">
 </p>
 
-### keras-tutorials
+#### 1.3 Keras Tutorials
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -122,7 +123,7 @@ Additional TensorFlow tutorials:
 | [rnn-lstm](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/keras-tutorial/3.2%20RNN%20and%20LSTM.ipynb) | Learn about Recurrent Neural Networks (RNNs) with Keras. |
 | [lstm-sentence-gen](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/keras-tutorial/3.3%20%28Extra%29%20LSTM%20for%20Sentence%20Generation.ipynb) |  Learn about RNNs using Long Short Term Memory (LSTM) networks with Keras. |
 
-### deep-learning-misc
+#### 1.* Deep Learning Misc
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -133,7 +134,9 @@ Additional TensorFlow tutorials:
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scikitlearn.png">
 </p>
 
-## scikit-learn
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 2. Scikit-learn
 
 IPython Notebook(s) demonstrating scikit-learn functionality.
 
@@ -154,7 +157,9 @@ IPython Notebook(s) demonstrating scikit-learn functionality.
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scipy.png">
 </p>
 
-## statistical-inference-scipy
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 3. Statistical Inference SciPy
 
 IPython Notebook(s) demonstrating statistical inference with SciPy functionality.
 
@@ -170,7 +175,9 @@ IPython Notebook(s) demonstrating statistical inference with SciPy functionality
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/pandas.png">
 </p>
 
-## pandas
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 4. Pandas
 
 IPython Notebook(s) demonstrating pandas functionality.
 
@@ -197,13 +204,15 @@ IPython Notebook(s) demonstrating pandas functionality.
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/matplotlib.png">
 </p>
 
-## matplotlib
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 5. Matplotlib
 
 IPython Notebook(s) demonstrating matplotlib functionality.
 
 | Notebook | Description |
 |-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [matplotlib](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb) | Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. |
+| [matplotlib](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb) | Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. |
 | [matplotlib-applied](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib-applied.ipynb) | Apply matplotlib visualizations to Kaggle competitions for exploratory data analysis.  Learn how to create bar plots, histograms, subplot2grid, normalized plots, scatter plots, subplots, and kernel density estimation plots. |
 | [Introduction-To-Matplotlib](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.00-Introduction-To-Matplotlib.ipynb) | Introduction to Matplotlib. |
 | [Simple-Line-Plots](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.01-Simple-Line-Plots.ipynb) | Learn about simple line plots in Matplotlib. |
@@ -226,7 +235,9 @@ IPython Notebook(s) demonstrating matplotlib functionality.
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/numpy.png">
 </p>
 
-## numpy
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 6. NumPy
 
 IPython Notebook(s) demonstrating NumPy functionality.
 
@@ -249,7 +260,9 @@ IPython Notebook(s) demonstrating NumPy functionality.
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/python.png">
 </p>
 
-## python-data
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 7. Python Data
 
 IPython Notebook(s) demonstrating Python functionality geared towards data analysis.
 
@@ -268,23 +281,27 @@ IPython Notebook(s) demonstrating Python functionality geared towards data analy
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/kaggle.png">
 </p>
 
-## kaggle-and-business-analyses
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 8. Kaggle and Business Analyses
 
 IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and business analyses.
 
 | Notebook | Description |
 |-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [titanic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/kaggle/titanic.ipynb) | Predict survival on the Titanic.  Learn data cleaning, exploratory data analysis, and machine learning. |
-| [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predict customer churn.  Exercise logistic regression, gradient boosting classifers, support vector machines, random forests, and k-nearest-neighbors.  Includes discussions of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/descrimination.|
+| [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predict customer churn.  Exercise logistic regression, gradient boosting classifiers, support vector machines, random forests, and k-nearest-neighbors.  Includes discussions of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/descrimination.|
 
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/spark.png">
 </p>
 
-## spark
+------------------------------------------------------------------------------------------------------------------------------------------
 
-IPython Notebook(s) demonstrating spark and HDFS functionality.
+### 9. Spark
+
+IPython Notebook(s) demonstrating Spark and HDFS functionality.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -296,13 +313,15 @@ IPython Notebook(s) demonstrating spark and HDFS functionality.
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/mrjob.png">
 </p>
 
-## mapreduce-python
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 10. Mapreduce Python
 
 IPython Notebook(s) demonstrating Hadoop MapReduce with mrjob functionality.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [mapreduce-python](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/mapreduce/mapreduce-python.ipynb) | Runs MapReduce jobs in Python, executing jobs locally or on Hadoop clusters. Demonstrates Hadoop Streaming in Python code with unit test and [mrjob](https://github.com/Yelp/mrjob) config file to analyze Amazon S3 bucket logs on Elastic MapReduce.  [Disco](https://github.com/discoproject/disco/) is another python-based alternative.|
+| [mapreduce-python](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/mapreduce/mapreduce-python.ipynb) | Runs MapReduce jobs in Python, executing jobs locally or on Hadoop clusters. Demonstrates Hadoop Streaming in Python code with unit tests and [mrjob](https://github.com/Yelp/mrjob) config file to analyze Amazon S3 bucket logs on Elastic MapReduce.  [Disco](https://github.com/discoproject/disco/) is another Python-based alternative.|
 
 <br/>
 
@@ -310,7 +329,9 @@ IPython Notebook(s) demonstrating Hadoop MapReduce with mrjob functionality.
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
 </p>
 
-## aws
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 11. AWS
 
 IPython Notebook(s) demonstrating Amazon Web Services (AWS) and AWS tools functionality.
 
@@ -335,7 +356,9 @@ Also check out:
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/commands.png">
 </p>
 
-## commands
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 12. Commands
 
 IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 
@@ -343,35 +366,39 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [linux](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/linux.ipynb) | Unix-like and mostly POSIX-compliant computer operating system.  Disk usage, splitting files, grep, sed, curl, viewing running processes, terminal syntax highlighting, and Vim.|
 | [anaconda](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#anaconda) | Distribution of the Python programming language for large-scale data processing, predictive analytics, and scientific computing, that aims to simplify package management and deployment. |
-| [ipython notebook](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#ipython-notebook) | Web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. |
+| [ipython notebook](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#ipython-notebook) | Web-based interactive computational environment where you can combine code execution, text, mathematics, plots, and rich media into a single document. |
 | [git](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#git) | Distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows. |
 | [ruby](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#ruby) | Used to interact with the AWS command line and for Jekyll, a blog framework that can be hosted on GitHub Pages. |
 | [jekyll](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#jekyll) | Simple, blog-aware, static site generator for personal, project, or organization sites.  Renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. |
 | [pelican](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#pelican) | Python-based alternative to Jekyll. |
 | [django](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#django) | High-level Python Web framework that encourages rapid development and clean, pragmatic design. It can be useful to share reports/analyses and for blogging. Lighter-weight alternatives include [Pyramid](https://github.com/Pylons/pyramid), [Flask](https://github.com/pallets/flask), [Tornado](https://github.com/tornadoweb/tornado), and [Bottle](https://github.com/bottlepy/bottle).
 
-## misc
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 13. Misc
 
 IPython Notebook(s) demonstrating miscellaneous functionality.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [regex](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/misc/regex.ipynb) | Regular expression cheat sheet useful in data wrangling.|
-[algorithmia](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/misc/Algorithmia.ipynb) | Algorithmia is a marketplace for algorithms. This notebook showcases 4 different algorithms: Face Detection, Content Summarizer, Latent Dirichlet Allocation and Optical Character Recognition.|
+[algorithmia](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/misc/Algorithmia.ipynb) | Algorithmia is a marketplace for algorithms. This notebook showcases 4 different algorithms: Face Detection, Content Summarizer, Latent Dirichlet Allocation, and Optical Character Recognition.|
 
-## notebook-installation
+------------------------------------------------------------------------------------------------------------------------------------------
 
-### anaconda
+### 14. Notebook Installation
+
+#### Anaconda
 
 Anaconda is a free distribution of the Python programming language for large-scale data processing, predictive analytics, and scientific computing that aims to simplify package management and deployment.
 
 Follow instructions to install [Anaconda](https://docs.continuum.io/anaconda/install) or the more lightweight [miniconda](http://conda.pydata.org/miniconda.html).
 
-### dev-setup
+#### Dev-Setup
 
 For detailed instructions, scripts, and tools to set up your development environment for data analysis, check out the [dev-setup](https://github.com/donnemartin/dev-setup) repo.
 
-### running-notebooks
+#### Running-Notebooks
 
 To view interactive content or to modify elements within the IPython notebooks, you must first clone or download the repository then run the notebook.  More information on IPython Notebooks can be found [here.](http://ipython.org/notebook.html)
 
@@ -381,7 +408,9 @@ To view interactive content or to modify elements within the IPython notebooks, 
 
 Notebooks tested with Python 2.7.x.
 
-## credits
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### 15. Credits
 
 * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
 * [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
@@ -398,11 +427,9 @@ Notebooks tested with Python 2.7.x.
 * [Kaggle](https://www.kaggle.com/)
 * [Yhat Blog](http://blog.yhat.com/)
 
-## contributing
+------------------------------------------------------------------------------------------------------------------------------------------
 
-Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/donnemartin/data-science-ipython-notebooks/issues).
-
-## contact-info
+### 16. Contact Info
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -412,9 +439,11 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [donnemartin](https://www.linkedin.com/in/donnemartin)
 * Website: [donnemartin.com](http://donnemartin.com)
 
-## license
+------------------------------------------------------------------------------------------------------------------------------------------
 
-This repository contains a variety of content; some developed by Donne Martin, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
+### 17. License
+
+This repository contains a variety of content; some developed by Donne Martin, and some from third parties.  The third-party content is distributed under the license provided by those parties.
 
 The content developed by Donne Martin is distributed under the following license:
 
