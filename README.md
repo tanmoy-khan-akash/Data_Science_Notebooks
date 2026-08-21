@@ -34,12 +34,12 @@
 * [Contact Info](#contact-info)
 * [License](#license)
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="http://i.imgur.com/ZhKXrKZ.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 1. Deep Learning
 
@@ -152,12 +152,12 @@ IPython Notebook(s) demonstrating scikit-learn functionality.
 | [gmm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-gmm.ipynb) | Implement Gaussian mixture models in scikit-learn. |
 | [validation](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-validation.ipynb) | Implement validation and model selection in scikit-learn. |
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scipy.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 3. Statistical Inference SciPy
 
@@ -170,12 +170,12 @@ IPython Notebook(s) demonstrating statistical inference with SciPy functionality
 | [sampling](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scipy/sampling.ipynb) | Explore random sampling by analyzing the average weight of men and women in the United States using BRFSS data. |
 | [hypothesis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scipy/hypothesis.ipynb) | Explore hypothesis testing by analyzing the difference of first-born babies compared with others. |
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/pandas.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 4. Pandas
 
@@ -199,12 +199,12 @@ IPython Notebook(s) demonstrating pandas functionality.
 | [Working-with-Time-Series](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.11-Working-with-Time-Series.ipynb) | Learn about working with time series in pandas. |
 | [Performance-Eval-and-Query](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.12-Performance-Eval-and-Query.ipynb) | Learn about high-performance Pandas: eval() and query() in Pandas. |
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/matplotlib.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 5. Matplotlib
 
@@ -230,12 +230,12 @@ IPython Notebook(s) demonstrating matplotlib functionality.
 | [Geographic-Data-With-Basemap](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.13-Geographic-Data-With-Basemap.ipynb) | Learn about geographic data with basemap in Matplotlib. |
 | [Visualization-With-Seaborn](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.14-Visualization-With-Seaborn.ipynb) | Learn about visualization with Seaborn. |
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/numpy.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 6. NumPy
 
@@ -255,12 +255,12 @@ IPython Notebook(s) demonstrating NumPy functionality.
 | [Sorting](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.08-Sorting.ipynb) | Learn about sorting arrays in NumPy. |
 | [Structured-Data-NumPy](http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.09-Structured-Data-NumPy.ipynb) | Learn about structured data: NumPy's structured arrays. |
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/python.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 7. Python Data
 
@@ -276,12 +276,12 @@ IPython Notebook(s) demonstrating Python functionality geared towards data analy
 | [pdb](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/python-data/pdb.ipynb) | Learn how to debug in Python with the interactive source code debugger. |
 | [unit tests](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/python-data/unit_tests.ipynb) | Learn how to test in Python with Nose unit tests. |
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/kaggle.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 8. Kaggle and Business Analyses
 
@@ -292,12 +292,12 @@ IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and b
 | [titanic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/kaggle/titanic.ipynb) | Predict survival on the Titanic.  Learn data cleaning, exploratory data analysis, and machine learning. |
 | [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predict customer churn.  Exercise logistic regression, gradient boosting classifiers, support vector machines, random forests, and k-nearest-neighbors.  Includes discussions of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/descrimination.|
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/spark.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 9. Spark
 
@@ -308,12 +308,12 @@ IPython Notebook(s) demonstrating Spark and HDFS functionality.
 | [spark](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/spark/spark.ipynb) | In-memory cluster computing framework, up to 100 times faster for certain applications and is well suited for machine learning algorithms. |
 | [hdfs](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/spark/hdfs.ipynb) | Reliably stores very large files across machines in a large cluster. |
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/mrjob.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 10. Mapreduce Python
 
@@ -323,13 +323,13 @@ IPython Notebook(s) demonstrating Hadoop MapReduce with mrjob functionality.
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | [mapreduce-python](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/mapreduce/mapreduce-python.ipynb) | Runs MapReduce jobs in Python, executing jobs locally or on Hadoop clusters. Demonstrates Hadoop Streaming in Python code with unit tests and [mrjob](https://github.com/Yelp/mrjob) config file to analyze Amazon S3 bucket logs on Elastic MapReduce.  [Disco](https://github.com/discoproject/disco/) is another Python-based alternative.|
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 11. AWS
 
@@ -351,12 +351,12 @@ Also check out:
 | [kinesis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#kinesis) | Streams data in real time with the ability to process thousands of data streams per second. |
 | [lambda](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#lambda) | Runs code in response to events, automatically managing compute resources. |
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/commands.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 12. Commands
 
