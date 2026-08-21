@@ -129,12 +129,12 @@ Additional TensorFlow tutorials:
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [deep-dream](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/deep-dream/dream.ipynb) | Caffe-based computer vision program which uses a convolutional neural network to find and enhance patterns in images. |
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scikitlearn.png">
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 2. Scikit-learn
 
