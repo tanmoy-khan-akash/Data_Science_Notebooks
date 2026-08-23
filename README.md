@@ -6,7 +6,6 @@
   <p align="center">
     <img src="Data Science Notebooks.png">
   </p>
- <br>
   <p align="center">
     <img src="Data Science Notebooks_2.png">
   </p>
